@@ -145,6 +145,9 @@ A comprehensive guide covering different rooting methods, decision-making and di
 - **[NewQStory](https://github.com/Xposed-Modules-Repo/lin.xposed/)** - Xposed QQ module. `Proprietry` `[LP]`
 - **[QAuxiliary](https://github.com/cinit/QAuxiliary)** - Xposed module based on QNotified. `FOSS` `[LP]`
 
+##### Snapchat
+- **[SnapEnhance](https://github.com/rhunk/SnapEnhance)** - Xposed module for enhancing many parts of Snpachat, allowing you to downloading snaps, annoymonus story viewing, auto-save chats etc. `FOSS` `[LP]`
+
 ##### Telegram
 - **[Re-Telegram](https://github.com/Sakion-Team/Re-Telegram/)** - Adds features like AntiAntiForward, AntiRecall, NoSponsoredMessages, ProhibitChannelSwitching and many more to various Telegram clients. `FOSS` `[LP]`
 - **[TeleVip](https://github.com/Xposed-Modules-Repo/com.my.televip/)** - A module for modifying Telegram with Hide seen status, unlocking channel restrictions etc. `Proprietary` `[LP]`
