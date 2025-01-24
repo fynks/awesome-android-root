@@ -134,6 +134,7 @@ A comprehensive guide covering different rooting methods, decision-making and di
 
 #### Social Media Mods
 ##### Bilibili
+- **[BiliRoaming](https://github.com/yujincheng08/BiliRoaming)** - A module that removes region restrictions in Bilibili. `FOSS` `[LP]`
 - **[MBGA](https://github.com/cledwynl/mbga/)** - A Xposed module to Make Bilibili Great Again. `FOSS` `[LP]`
 
 ##### Discord
@@ -241,7 +242,7 @@ Archived Chats to official WhatsApp. `Proprietary` `[LP]`
 ##### AOSP (Android Open Source Project)
 - **[PixelXpert](https://github.com/siavash79/PixelXpert)** - A mixed Xposed+Magisk module, which is made to allow customizations that are not originally designed in AOSP. `FOSS` `[M]` `[LP]`
 
-##### ColorOS (Oppo)
+##### ColorOS (Oppo/OnePlus)
 - **[ColorOS Notify Icon](https://github.com/fankes/ColorOSNotifyIcon)** - Optimize notification icons for ColorOS and adapt to native notification icon specifications. `FOSS`
 - **[LuckyTool](https://github.com/Xposed-Modules-Repo/com.luckyzyx.luckytool/blob/main/README_EN.md)** - Extended and optimized Xposed module for ColorOS. `Proprietary` `[LP]`
 
