@@ -43,6 +43,7 @@
       - [Youtube](#youtube)
       - [Line](#line)
       - [QQ](#qq)
+      - [Snapchat](#snapchat)
       - [Telegram](#telegram)
       - [Wechat](#wechat)
       - [Whatsapp](#whatsapp)
@@ -190,6 +191,9 @@ A comprehensive guide covering different rooting methods, decision-making and di
 ##### QQ
 - **[NewQStory](https://github.com/Xposed-Modules-Repo/lin.xposed/)** - Xposed QQ module. `Proprietary` `[LSP]`
 - **[QAuxiliary](https://github.com/cinit/QAuxiliary)** - Xposed module based on QNotified. `FOSS` `[LSP]`
+
+##### Snapchat
+- **[SnapEnhance](https://github.com/rhunk/SnapEnhance)** - Adds numerous features related to privacy, media downloading, messaging, camera, Snapchat Plus, and UI tweaks. Also includes many other enhancements—refer to the repository for details. `[LSP]`
 
 ##### Telegram
 - **[Re-Telegram](https://github.com/Sakion-Team/Re-Telegram/)** - Adds features like AntiAntiForward, AntiRecall, NoSponsoredMessages, ProhibitChannelSwitching and many more to various Telegram clients. `FOSS` `[LSP]`
