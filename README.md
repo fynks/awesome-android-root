@@ -43,6 +43,7 @@
       - [Youtube](#youtube)
       - [Line](#line)
       - [QQ](#qq)
+      - [Snapchat](#snapchat)
       - [Telegram](#telegram)
       - [Wechat](#wechat)
       - [Whatsapp](#whatsapp)
